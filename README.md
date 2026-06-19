@@ -33,6 +33,21 @@ I work at the intersection of design and front-end development. I enjoy solving 
 
 ---
 
+## Features
+
+- Clean, responsive portfolio layout showcasing projects and case studies.
+- Design-focused components and reusable UI elements (Figma files included).
+- Accessible patterns: semantic HTML, keyboard navigation, and ARIA where needed.
+- Dark mode support and theme switching for better UX.
+- Live demos and hosted project previews (links to deployments).
+- CI/CD: automated builds and tests for main branches.
+- Contribution guidelines and templates for issues / pull requests.
+- Language analysis and stats generated from repository composition.
+
+(Adjust or remove features that don't apply to your projects.)
+
+---
+
 ## How I Work
 
 - I focus on readable, well-tested code.
